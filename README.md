@@ -1,2 +1,16 @@
-# Meesho-Clone---React-Project-1-6-23
-Meesho-Clone---React-Project 1-6-23
+# Meesho Clone
+
+Meesho is a social commerce platform that undertakes retail distribution, enabling small retail merchants to connect and sell their products effectively via social media channels.
+
+
+
+
+
+
+
+
+
+
+
+   
+   
